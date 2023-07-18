@@ -53,7 +53,7 @@ body {
     content: "";
     width: 0;
     height: 0;
-    border-bottom: 100px solid #d63447;
+    border-bottom: 100px solid #189de5;
     border-right: 20px solid transparent;
 }
 
@@ -70,7 +70,7 @@ body {
     content: "";
     width: 0;
     height: 0;
-    border-bottom: 100px solid #d63447;
+    border-bottom: 100px solid #189de5;
     border-left: 20px solid transparent;
     position: absolute;
     right: -3px;
@@ -81,7 +81,7 @@ body {
     height: 60px;
     width: 40px;
     border-radius: 0 50% 50% 0;
-    background-color: #d63447;
+    background-color: #189de5;
     border: 10px solid #f9f9f9;
     position: absolute;
     right: 26px;
@@ -100,7 +100,7 @@ body {
 .steam1, .steam2, .steam3, .steam4, .steam5 {
     width: 20%;
     height: 5%;
-    background-color: #eadca6;
+    background-color: #e88946;
     border-radius: 10px;
     animation: steamFloating 1.5s infinite linear;
 }
@@ -151,7 +151,7 @@ body {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background-color: #e2c275;
+    background-color: #de6006;
     animation: bubbleFloating 1.5s infinite ease-in;
     position: relative;
 }
